@@ -98,6 +98,12 @@ a.no-underline:hover {
   cursor: pointer;
 }
 
+div.c {
+  text-align: center;
+  font-size: 10;
+  color: darkgray;
+}
+
 /* Small devices (portrait tablets and large phones, 800px and below) */
 @media only screen and (max-width: 800px) {
   #footer {
