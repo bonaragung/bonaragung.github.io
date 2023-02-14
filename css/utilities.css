@@ -102,6 +102,7 @@ div.c {
   text-align: center;
   font-size: 10;
   color: darkgray;
+  gap: 23px;
 }
 
 /* Small devices (portrait tablets and large phones, 800px and below) */
